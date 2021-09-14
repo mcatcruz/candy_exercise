@@ -50,4 +50,4 @@ def get_friends_who_like_specific_candy(data, candy_name):
 
 
 def create_candy_set(data):
-    candy_set = set()
+    set(data)
